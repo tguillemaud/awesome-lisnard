@@ -1,6 +1,6 @@
 # 🇫🇷 Awesome Lisnard
 
-![Logo Awesome Lisnard](media/logo.svg)
+<p align="center"><img src="media/logo.svg" alt="Logo Awesome Lisnard" width="180"></p>
 
 **Une collection collaborative de projets, outils et ressources autour de David Lisnard, de Nouvelle Énergie et de la présidentielle de 2027.**
 
