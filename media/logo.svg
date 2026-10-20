@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 160" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Lisnard</title>
+  <desc id="desc">Lunettes aviateur bleu marine aux verres bleu, blanc et rouge.</desc>
+  <defs>
+    <path id="lens" d="M24 35h94l-7 49c-3 19-18 32-40 32s-37-13-40-32z"/>
+    <clipPath id="left-lens"><use href="#lens"/></clipPath>
+    <clipPath id="right-lens"><use href="#lens" transform="translate(256) scale(-1 1)"/></clipPath>
+  </defs>
+  <g transform="translate(12.8 0) scale(0.9 1)">
+  <g clip-path="url(#left-lens)">
+    <path fill="#173A72" d="M20 30h32v116H20z"/>
+    <path fill="#fff" d="M52 30h32v116H52z"/>
+    <path fill="#E3424A" d="M84 30h40v116H84z"/>
+  </g>
+  <g clip-path="url(#right-lens)">
+    <path fill="#173A72" d="M132 30h32v116h-32z"/>
+    <path fill="#fff" d="M164 30h32v116h-32z"/>
+    <path fill="#E3424A" d="M196 30h40v116h-40z"/>
+  </g>
+  <g fill="none" stroke="#142B4A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <use href="#lens"/>
+    <use href="#lens" transform="translate(256) scale(-1 1)"/>
+    <path d="M118 43c5-9 15-9 20 0M24 45 9 39M232 45l15-6"/>
+  </g>
+  </g>
+</svg>
