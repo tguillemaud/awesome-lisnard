@@ -33,7 +33,7 @@ Des outils pour explorer et suivre des données publiques.
 
 Des expériences interactives autour des idées et propositions politiques.
 
-- [Ma vie sous Lisnard](https://ma-vie-sous-lisnard.netlify.app/) — Jeu interactif imaginé par des bénévoles soutiens de David Lisnard.
+- [Ma vie sous Lisnard](https://ma-vie-sous-lisnard.netlify.app/) — Simulateur interactif qui fait parcourir les étapes d'une vie selon différents scénarios présidentiels, du scénario Lisnard à Napoléon.
 
 ## 🤖 Intelligence artificielle & open data
 
