@@ -28,6 +28,9 @@ Des outils pour explorer et suivre des données publiques.
 
 - [Compteur Nouvelle Énergie](https://ne-compteur.netlify.app/) — Compteur d'adhésions présenté par son site comme étant en direct, avec partage des chiffres et lien d'adhésion.
 - [Adhérents des partis politiques](https://martinraph.fr/adherents-des-partis/) — Classement comparatif des chiffres d'adhésion publiés ou annoncés par les partis, avec dates et sources. Les chiffres ont des dates et niveaux de vérification différents.
+- [Compteur NE — extension Chrome](https://chromewebstore.google.com/detail/compteur-ne/lochnddbeejnhejbcchlmbajcklgboon) — Affiche le compteur dans la barre d'outils du navigateur et propose des fonctions de parrainage. [Politique de confidentialité](https://www.jules-b.fr/compteur-ne/confidentialite).
+- [Il se passe quelque chose](https://ilsepassequelquechose.com/) — Observatoire de données sur la campagne, notamment les sondages, marchés prédictifs, adhésions et publications sur les réseaux sociaux, avec sources et précautions d'interprétation.
+- [Lisnard Play — campagne](https://play.projetlisnard.fr/campagne) — Tableau de suivi des adhésions et des déplacements de campagne.
 
 ## 🎮 Simulateurs & expériences
 
@@ -40,6 +43,8 @@ Des expériences interactives autour des idées et propositions politiques.
 Des projets exploitant l'intelligence artificielle, les données ouvertes et les technologies de recherche.
 
 - [Lisnard RAG](https://github.com/Maximerg/lisnard-rag) — Base de connaissances ouverte et sourcée sur les positions publiques de David Lisnard et de Nouvelle Énergie, destinée notamment à la recherche, au fact-checking et aux systèmes RAG. Les transcriptions automatiques peuvent comporter des erreurs ; vérifier les citations auprès des sources originales.
+- [NE-programme-AI](https://github.com/capucine19/NE-programme-AI) — Application pour poser des questions sur le programme et obtenir des réponses accompagnées d'extraits cités. [Démo](https://nouvelle-energie-ai.up.railway.app/).
+- [Lisnard Insight](https://lisnard-insight.lovable.app/) — Explorateur du programme qui le présente par thèmes, compare les candidats et cite ses sources.
 
 ## 📜 Propositions & réformes
 
