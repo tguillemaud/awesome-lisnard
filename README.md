@@ -68,7 +68,7 @@ Vous connaissez un projet, un outil ou une ressource qui mérite de figurer dans
 3. Ajoutez un lien fonctionnel et une description courte et factuelle. Si la ressource est officielle, joignez une source qui le confirme afin d'ajouter le repère visuel.
 4. Soumettez une pull request.
 
-Consultez le [guide de contribution](docs/CONTRIBUTING.md) avant de proposer une modification. Les modèles sont disponibles pour les [issues](.github/ISSUE_TEMPLATE.md) et les [pull requests](.github/PULL_REQUEST_TEMPLATE.md).
+Consultez le [guide de contribution](docs/CONTRIBUTING.md) avant de proposer une modification. Utilisez le [formulaire d’issue](https://github.com/tguillemaud/awesome-lisnard/issues/new?template=proposer-une-ressource.yml) ou le [modèle de pull request](.github/PULL_REQUEST_TEMPLATE.md).
 
 Les projets open source, les outils gratuits, les analyses sourcées et les initiatives communautaires sont particulièrement bienvenus.
 

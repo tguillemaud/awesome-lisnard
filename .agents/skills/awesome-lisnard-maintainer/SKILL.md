@@ -28,4 +28,4 @@ Utiliser cette compétence pour toute curation de ressources dans ce dépôt : a
 
 ## Périmètre
 
-Le README est la liste de référence. Les documents de contribution sont `docs/CONTRIBUTING.md`, `.github/ISSUE_TEMPLATE.md` et `.github/PULL_REQUEST_TEMPLATE.md`. Cette compétence ne prescrit pas d'ajout d'outillage ni de synchronisation multilingue.
+Le README est la liste de référence. Les documents de contribution sont `docs/CONTRIBUTING.md`, `.github/ISSUE_TEMPLATE/proposer-une-ressource.yml` et `.github/PULL_REQUEST_TEMPLATE.md`. Cette compétence ne prescrit pas d'ajout d'outillage ni de synchronisation multilingue.

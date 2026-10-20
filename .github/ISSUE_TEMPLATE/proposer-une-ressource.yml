@@ -1,0 +1,56 @@
+name: Proposer une ressource ou une amélioration
+description: Ajouter, corriger ou retirer une ressource de la liste
+title: "[Proposition] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Avant d'ouvrir une issue, recherchez les propositions similaires déjà signalées. Merci de consacrer une issue à une seule demande distincte.
+
+  - type: checkboxes
+    id: type
+    attributes:
+      label: Type de proposition
+      description: Cochez toutes les cases pertinentes.
+      options:
+        - label: Ajouter une ressource
+        - label: Corriger une ressource existante
+        - label: Retirer une ressource
+        - label: Réorganiser une catégorie ou la liste
+        - label: Signaler un lien inaccessible
+        - label: Autre amélioration
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Modifications proposées
+      description: Décrivez la ressource ou le changement demandé, puis expliquez brièvement pourquoi il serait utile.
+      placeholder: |
+        Nom et lien de la ressource, le cas échéant :
+        Catégorie proposée, le cas échéant :
+        Issue liée, le cas échéant :
+        Sources publiques vérifiant la description et l'affiliation officielle, le cas échéant :
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: >-
+        Pour une ressource présentée avec l'icône officielle, fournissez une source publique confirmant sa publication par Nouvelle Énergie ou David Lisnard.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Vérifications
+      options:
+        - label: J'ai recherché les propositions similaires et vérifié que cette ressource n'est pas déjà dans le README.
+          required: true
+        - label: J'ai expliqué l'utilité du changement.
+        - label: J'ai fourni les liens et sources nécessaires, le cas échéant.
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Commentaires complémentaires
+      description: Pour une proposition importante ou complexe, expliquez ici la solution envisagée et les autres options considérées.
+    validations:
+      required: false
