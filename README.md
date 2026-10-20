@@ -15,6 +15,7 @@ Vous avez développé un projet ou découvert une ressource intéressante ? Les 
 - [Données & statistiques](#-données--statistiques)
 - [Simulateurs & expériences](#-simulateurs--expériences)
 - [Intelligence artificielle & open data](#-intelligence-artificielle--open-data)
+- [Propositions & réformes](#-propositions--réformes)
 - [Communication & création](#-communication--création)
 - [Ressources officielles](#-ressources-officielles)
 - [Communautés & réseaux sociaux](#-communautés--réseaux-sociaux)
@@ -39,6 +40,10 @@ Des expériences interactives autour des idées et propositions politiques.
 Des projets exploitant l'intelligence artificielle, les données ouvertes et les technologies de recherche.
 
 - [Lisnard RAG](https://github.com/Maximerg/lisnard-rag) — Base de connaissances ouverte et sourcée sur les positions publiques de David Lisnard et de Nouvelle Énergie, destinée notamment à la recherche, au fact-checking et aux systèmes RAG. Les transcriptions automatiques peuvent comporter des erreurs ; vérifier les citations auprès des sources originales.
+
+## 📜 Propositions & réformes
+
+- [Libérer la France](https://github.com/AlexMasmej/liberer-la-france) — Cinq propositions de simplification du droit français présentées sur des sites dédiés, avec un projet de rédaction juridique assistée par IA encore en cours et non validé par des juristes.
 
 ## 🎨 Communication & création
 
