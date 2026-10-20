@@ -28,7 +28,7 @@ Des outils pour explorer et suivre des données publiques.
 
 - [Compteur Nouvelle Énergie](https://ne-compteur.netlify.app/) — Compteur d'adhésions présenté par son site comme étant en direct, avec partage des chiffres et lien d'adhésion.
 - [Adhérents des partis politiques](https://martinraph.fr/adherents-des-partis/) — Classement comparatif des chiffres d'adhésion publiés ou annoncés par les partis, avec dates et sources. Les chiffres ont des dates et niveaux de vérification différents.
-- [Compteur NE — extension Chrome](https://chromewebstore.google.com/detail/compteur-ne/lochnddbeejnhejbcchlmbajcklgboon) — Affiche le compteur dans la barre d'outils du navigateur et propose des fonctions de parrainage. [Politique de confidentialité](https://www.jules-b.fr/compteur-ne/confidentialite).
+- [Compteur NE — extension Chrome](https://chromewebstore.google.com/detail/compteur-ne/lochnddbeejnhejbcchlmbajcklgboon) — Affiche le compteur dans la barre d'outils du navigateur et propose des fonctions de parrainage.
 - [Il se passe quelque chose](https://ilsepassequelquechose.com/) — Observatoire de données sur la campagne, notamment les sondages, marchés prédictifs, adhésions et publications sur les réseaux sociaux, avec sources et précautions d'interprétation.
 - [Lisnard Play — campagne](https://play.projetlisnard.fr/campagne) — Tableau de suivi des adhésions et des déplacements de campagne.
 
@@ -47,6 +47,8 @@ Des projets exploitant l'intelligence artificielle, les données ouvertes et les
 - [Lisnard Insight](https://lisnard-insight.lovable.app/) — Explorateur du programme qui le présente par thèmes, compare les candidats et cite ses sources.
 
 ## 📜 Propositions & réformes
+
+Des initiatives qui formulent ou explorent des propositions de réforme.
 
 - [Libérer la France](https://github.com/AlexMasmej/liberer-la-france) — Cinq propositions de simplification du droit français présentées sur des sites dédiés, avec un projet de rédaction juridique assistée par IA encore en cours et non validé par des juristes.
 
@@ -97,7 +99,6 @@ Les projets ne doivent pas nécessairement être officiels ou open source. Les o
 
 Awesome Lisnard est une liste communautaire de ressources. La présence d'un projet dans cette liste ne constitue pas une validation de son contenu, de ses méthodes ou de ses conclusions.
 
-Le repère graphique fourni par Nouvelle Énergie identifie uniquement les ressources officielles confirmées. Son absence signifie que le caractère officiel n'est pas établi dans cette liste.
 ---
 
 **⭐ Vous trouvez cette liste utile ? Ajoutez une étoile au dépôt et partagez-la !**
