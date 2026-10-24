@@ -17,6 +17,7 @@ Vous avez développé un projet ou découvert une ressource intéressante ? Les 
 - [Intelligence artificielle & open data](#-intelligence-artificielle--open-data)
 - [Propositions & réformes](#-propositions--réformes)
 - [Communication & création](#-communication--création)
+- [Mobilisation & terrain](#-mobilisation--terrain)
 - [Ressources officielles](#-ressources-officielles)
 - [Communautés & réseaux sociaux](#-communautés--réseaux-sociaux)
 - [Contribuer](#-contribuer)
@@ -30,13 +31,16 @@ Des outils pour explorer et suivre des données publiques.
 - [Adhérents des partis politiques](https://martinraph.fr/adherents-des-partis/) — Classement comparatif des chiffres d'adhésion publiés ou annoncés par les partis, avec dates et sources. Les chiffres ont des dates et niveaux de vérification différents.
 - [Compteur NE — extension Chrome](https://chromewebstore.google.com/detail/compteur-ne/lochnddbeejnhejbcchlmbajcklgboon) — Affiche le compteur dans la barre d'outils du navigateur et propose des fonctions de parrainage.
 - [Il se passe quelque chose](https://ilsepassequelquechose.com/) — Observatoire de données sur la campagne, notamment les sondages, marchés prédictifs, adhésions et publications sur les réseaux sociaux, avec sources et précautions d'interprétation.
-- [Lisnard Play — campagne](https://play.projetlisnard.fr/campagne) — Tableau de suivi des adhésions et des déplacements de campagne.
+- [Lisnard Play](https://play.projetlisnard.fr/) — Répertoire des interventions publiques de David Lisnard, en direct, à venir et passées ; [suivi de campagne](https://play.projetlisnard.fr/campagne) des adhésions et déplacements.
+- [Il se passe quelque chose — dynamique de campagne](https://il-se-passe-quelque-chose.fr/) — Suivi de la dynamique de campagne au moyen de courbes sur les adhésions, les sondages et l'audience, avec sources et dates.
 
 ## 🎮 Simulateurs & expériences
 
 Des expériences interactives autour des idées et propositions politiques.
 
 - [Ma vie sous Lisnard](https://ma-vie-sous-lisnard.netlify.app/) — Simulateur interactif qui fait parcourir les étapes d'une vie selon différents scénarios présidentiels, du scénario Lisnard à Napoléon.
+- [Simulateur retraite 2027](https://retraite.projetlisnard.fr/) — Compare les pensions nettes estimées dans le système actuel et avec le plan Lisnard, selon le profil renseigné et les hypothèses du modèle.
+- [Simulateur de finances publiques](https://dette-fr-production.up.railway.app/) — Tableau de bord et simulateur des recettes, dépenses, déficits et dette publics, avec des données indicatives et un modèle simplifié.
 
 ## 🤖 Intelligence artificielle & open data
 
@@ -58,6 +62,15 @@ Des outils pour produire, organiser et partager des contenus.
 
 - [Projet Lisnard — PostGen](https://post.projetlisnard.fr/) — Outil de création de visuels pour les réseaux sociaux.
 - [Lisnard Studio](https://studio.projetlisnard.fr/) — Outil de création de vidéos courtes à partir d'interviews.
+- [Ma photo de soutien](https://adherent.unenouvelleenergie.fr/photo-de-soutien) — Créateur de photo de profil avec choix d'une photo et d'un cadre ; le site indique que l'image reste sur l'appareil.
+- [Punchy DL](https://punchydl.fr/) — Recueil de punchlines de David Lisnard et à son propos.
+
+## 📍 Mobilisation & terrain
+
+Des outils pour organiser les actions locales et les tournées de collage.
+
+- [Tournée Affiches](https://tournee-collage.projetlisnard.fr/) — Outil de préparation d'une tournée de collage sur les panneaux d'affichage libre, avec guidage routier.
+- [LisnardGo!](https://lisnardgo.fr/) — Carte des panneaux d'affichage libre, validation des collages et classement des participants.
 
 ## 📣 Ressources officielles
 
