@@ -34,6 +34,10 @@ Des outils pour explorer et suivre des données publiques.
 - [Lisnard Play](https://play.projetlisnard.fr/) — Répertoire des interventions publiques de David Lisnard, en direct, à venir et passées ; [suivi de campagne](https://play.projetlisnard.fr/campagne) des adhésions et déplacements.
 - [Il se passe quelque chose — dynamique de campagne](https://il-se-passe-quelque-chose.fr/) — Suivi de la dynamique de campagne au moyen de courbes sur les adhésions, les sondages et l'audience, avec sources et dates.
 - [Où va l'argent ?](https://ou-va-largent.fr/) — Parcours visuel sur les prélèvements sur le salaire et les dépenses publiques, avec sources citées et présentation de propositions de David Lisnard.
+- [La France se réveille](https://la-france-se-reveille.vercel.app/) — Carte et courbe historique du total d'adhérents à Nouvelle Énergie ; la répartition géographique est illustrative et ne représente pas la localisation réelle des adhérents.
+- [Le baromètre David Lisnard](https://claude.ai/artifact/F4kTE6brkBrupdBz5sF39k) — Analyse thématique qualitative et anonymisée de discussions locales WhatsApp de Nouvelle Énergie 92, portant sur la période du 24 septembre au 17 octobre 2026 ; elle ne constitue ni un sondage ni une mesure représentative de l'opinion.
+- [Il se passe quelque chose — archive](https://il-se-passe-quelque-chose.vercel.app/) — Archive du classement de publications sur X autour de David Lisnard et du mot-dièse « Il se passe quelque chose », figée au 18 octobre 2026.
+- [Équilibre Ninja](https://equilibre.ninja/explorer) — Exploration interactive des dépenses publiques s'appuyant sur des données INSEE et Eurostat de 2024 et distinguant chiffres officiels et estimations.
 
 ## 🎮 Simulateurs & expériences
 
@@ -44,6 +48,12 @@ Des expériences interactives autour des idées et propositions politiques.
 - [Simulateur de finances publiques](https://dette-fr-production.up.railway.app/) — Tableau de bord et simulateur des recettes, dépenses, déficits et dette publics, avec des données indicatives et un modèle simplifié.
 - [Lisnard Cards](https://lisnard.cards/) — Comparateur interactif des propositions de David Lisnard et d'autres candidats, présentées sous forme de cartes entre lesquelles choisir.
 - [Lisnard Games](https://lisnard-games.nanocorp.app/) — Collection de mini-jeux en pixel art autour de David Lisnard et d'un univers politique.
+- [Se passera-t-il quelque chose ?](https://sepasseratilquelquechose.netlify.app/) — Jeu de fans où l'on collecte des adhérents fictifs pour atteindre un objectif de 150 000.
+- [Nouvel espoir avec Lisnard](https://nouvel-espoir-avec-lisnard.fr/) — Site de mini-jeux, quiz et classements autour de David Lisnard.
+- [Et toi, tu préfères Lisnard 2027 ?](https://et-toi-tu-preferes-lisnard-2027.fabienraynaud.chatgpt.site/) — Questionnaire de choix de propositions par thème, accompagné d'explications.
+- [Combien je paie ? — Nouvelle Énergie](https://www.combienjepaie.fr/nouvelle-energie) — Estimation de la charge fiscale selon le salaire et le statut, à partir de données fiscales 2025.
+- [Il se passe quelque chose à l'apéro](https://drive.google.com/file/d/1l5eOyA0RsneMEfGVyO_E7Nr4eUFopiY-/view) — Jeu imprimable de 30 cartes pour identifier les auteurs de propositions politiques, avec références datées ; édition du 11 octobre 2026.
+- [Lisnard Clicker](https://lisnardclicker.fr/) — Jeu de clic satirique où l'on détruit des dossiers tout en appliquant des réformes, avec des euros fictifs.
 
 ## 🤖 Intelligence artificielle & open data
 
@@ -84,6 +94,9 @@ Des outils pour organiser les actions locales et les tournées de collage.
 Des comptes, communautés et initiatives pour suivre les projets.
 
 - [Compteur NE sur X](https://x.com/CompteurNE) — Compte qui partage des relevés et des alertes sur l'évolution des adhésions à Nouvelle Énergie.
+- [Lisnardmania sur Instagram](https://www.instagram.com/lisnardmania/) — Compte de fans publiant des mèmes et vidéos autour de David Lisnard.
+- [r/Lisnard2027](https://www.reddit.com/r/Lisnard2027/) — Communauté Reddit de discussion autour du programme de David Lisnard pour 2027.
+- [LisnardBot sur X](https://x.com/lisnardbot) — Compte automatisé qui répond aux questions sur le programme en fournissant des citations.
 
 ## 🤝 Contribuer
 
