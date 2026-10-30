@@ -33,6 +33,7 @@ Des outils pour explorer et suivre des données publiques.
 - [Il se passe quelque chose](https://ilsepassequelquechose.com/) — Observatoire de données sur la campagne, notamment les sondages, marchés prédictifs, adhésions et publications sur les réseaux sociaux, avec sources et précautions d'interprétation.
 - [Lisnard Play](https://play.projetlisnard.fr/) — Répertoire des interventions publiques de David Lisnard, en direct, à venir et passées ; [suivi de campagne](https://play.projetlisnard.fr/campagne) des adhésions et déplacements.
 - [Il se passe quelque chose — dynamique de campagne](https://il-se-passe-quelque-chose.fr/) — Suivi de la dynamique de campagne au moyen de courbes sur les adhésions, les sondages et l'audience, avec sources et dates.
+- [Où va l'argent ?](https://ou-va-largent.fr/) — Parcours visuel sur les prélèvements sur le salaire et les dépenses publiques, avec sources citées et présentation de propositions de David Lisnard.
 
 ## 🎮 Simulateurs & expériences
 
@@ -41,6 +42,8 @@ Des expériences interactives autour des idées et propositions politiques.
 - [Ma vie sous Lisnard](https://ma-vie-sous-lisnard.netlify.app/) — Simulateur interactif qui fait parcourir les étapes d'une vie selon différents scénarios présidentiels, du scénario Lisnard à Napoléon.
 - [Simulateur retraite 2027](https://retraite.projetlisnard.fr/) — Compare les pensions nettes estimées dans le système actuel et avec le plan Lisnard, selon le profil renseigné et les hypothèses du modèle.
 - [Simulateur de finances publiques](https://dette-fr-production.up.railway.app/) — Tableau de bord et simulateur des recettes, dépenses, déficits et dette publics, avec des données indicatives et un modèle simplifié.
+- [Lisnard Cards](https://lisnard.cards/) — Comparateur interactif des propositions de David Lisnard et d'autres candidats, présentées sous forme de cartes entre lesquelles choisir.
+- [Lisnard Games](https://lisnard-games.nanocorp.app/) — Collection de mini-jeux en pixel art autour de David Lisnard et d'un univers politique.
 
 ## 🤖 Intelligence artificielle & open data
 
