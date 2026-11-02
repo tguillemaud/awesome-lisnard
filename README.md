@@ -54,6 +54,7 @@ Des expériences interactives autour des idées et propositions politiques.
 - [Combien je paie ? — Nouvelle Énergie](https://www.combienjepaie.fr/nouvelle-energie) — Estimation de la charge fiscale selon le salaire et le statut, à partir de données fiscales 2025.
 - [Il se passe quelque chose à l'apéro](https://drive.google.com/file/d/1l5eOyA0RsneMEfGVyO_E7Nr4eUFopiY-/view) — Jeu imprimable de 30 cartes pour identifier les auteurs de propositions politiques, avec références datées ; édition du 11 octobre 2026.
 - [Lisnard Clicker](https://lisnardclicker.fr/) — Jeu de clic satirique où l'on détruit des dossiers tout en appliquant des réformes, avec des euros fictifs.
+- [Bureaucratie ou Gorafi ?](https://takedownbureaucracy.app/) — Quiz pour distinguer de vraies règles françaises d'affirmations inventées, avec réponses expliquées et sources pour les règles réelles.
 
 ## 🤖 Intelligence artificielle & open data
 
@@ -68,6 +69,7 @@ Des projets exploitant l'intelligence artificielle, les données ouvertes et les
 Des initiatives qui formulent ou explorent des propositions de réforme.
 
 - [Libérer la France](https://github.com/AlexMasmej/liberer-la-france) — Cinq propositions de simplification du droit français présentées sur des sites dédiés, avec un projet de rédaction juridique assistée par IA encore en cours et non validé par des juristes.
+- [David Lisnard président](https://davidpresident.fr/) — Présentation thématique des propositions de David Lisnard sous forme d'infographies, avec liens vers les sources.
 
 ## 🎨 Communication & création
 
